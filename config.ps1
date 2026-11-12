@@ -1,7 +1,7 @@
 # Edit these values ONCE. Every run.ps1 script reads them.
 
-$DockerHubUser = "YOUR_DOCKERHUB_USERNAME"   # e.g. jdoe   (hub.docker.com username)
-$GitHubUser    = "YOUR_GITHUB_USERNAME"      # e.g. jdoe   (github.com username)
+$DockerHubUser = "sanjayyyy24"   # e.g. jdoe   (hub.docker.com username)
+$GitHubUser    = "sanjayimmanuel24"      # e.g. jdoe   (github.com username)
 $GitHubRepo    = "devops-lab"                # name of THIS repo on GitHub
 
 # Used by Experiment 1 only if git has no user.name / user.email yet on the machine.
