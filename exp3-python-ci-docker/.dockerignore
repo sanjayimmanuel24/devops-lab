@@ -1,0 +1,5 @@
+run.ps1
+README.md
+ci-dockerhub.yml
+__pycache__
+.pytest_cache
